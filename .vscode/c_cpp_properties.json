@@ -8,8 +8,8 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "C:/Users/osk/Documents/PlatformIO/Projects/Core2-ADC-Test/include",
-                "C:/Users/osk/Documents/PlatformIO/Projects/Core2-ADC-Test/src",
+                "c:/Users/osk/Documents/PlatformIO/Projects/Core2-ADC-Test/include",
+                "c:/Users/osk/Documents/PlatformIO/Projects/Core2-ADC-Test/src",
                 "C:/Users/osk/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                 "C:/Users/osk/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                 "C:/Users/osk/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
@@ -235,8 +235,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "C:/Users/osk/Documents/PlatformIO/Projects/Core2-ADC-Test/include",
-                    "C:/Users/osk/Documents/PlatformIO/Projects/Core2-ADC-Test/src",
+                    "c:/Users/osk/Documents/PlatformIO/Projects/Core2-ADC-Test/include",
+                    "c:/Users/osk/Documents/PlatformIO/Projects/Core2-ADC-Test/src",
                     "C:/Users/osk/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                     "C:/Users/osk/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                     "C:/Users/osk/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
